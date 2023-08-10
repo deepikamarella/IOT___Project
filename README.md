@@ -6,6 +6,7 @@ framework aims to constantly monitor Air pollutant levels along with Air Quality
 the Air Quality levels are broadcasted on a web-based dashboard, which can be publicly 
 accessed from anywhere. The proposed IoT framework solves the problems related to Air 
 pollution by alerting the users to protect themselves for their well-being.
+
 Working Prototype: https://drive.google.com/file/d/1GIEInM6-CSMNkUihTh88_efcgFUzdkLV/view?usp=sharing 
 
 ## ***Sensor Modules used***
